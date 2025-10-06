@@ -12,3 +12,13 @@ folded cascode after sizing :
 
 Sizing steps :
 
+1) we have three stages so i try to divide the gain requirement for each i assumed that i will try to get a gain of 60 - 70 db from the first stage  
+i assumed that i have a slew rate of 10v/us ==> Iss/Cl and adding a margin for parasetic caps we assume a CL of 1.2p farad so calculating Iss i get a current of 6u in each branch so a total of 12uA.
+2) we have a GBW of 5Mhz so we can get GBW=gm1/2*pi*CL ==> gm1 =31.46usiemens ==> so gm1/id = 5.2 so gm/id > 5.2 is good for a first stage.
+3) I assumed vds of 400m on input and 200m on current mirroir and nmos bias part M4.
+
+<img width="497" height="360" alt="image" src="https://github.com/user-attachments/assets/1d874c03-3354-49ee-8604-016465823700" />
+
+test bench ==> remeber better to put drain and source voltage in that configuration so we get a more accurate Vth from the simulation and higher accuracy after design.
+
+4)  
