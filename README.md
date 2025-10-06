@@ -9,3 +9,6 @@ we will start by sizing th SE folded cascode:
 folded cascode after sizing :
 
 <img width="1634" height="645" alt="image" src="https://github.com/user-attachments/assets/f9b32ffd-b12b-4c9f-b05d-b94160ac6ec8" />
+
+Sizing steps :
+
