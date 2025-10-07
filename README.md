@@ -21,4 +21,6 @@ i assumed that i have a slew rate of 10v/us ==> Iss/Cl and adding a margin for p
 
 test bench ==> remeber better to put drain and source voltage in that configuration so we get a more accurate Vth from the simulation and higher accuracy after design.
 
+<img width="1619" height="756" alt="image" src="https://github.com/user-attachments/assets/a19c30f0-0520-44a2-af4d-9dec9948bafa" />
+
 4)  
