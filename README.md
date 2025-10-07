@@ -23,4 +23,7 @@ test bench ==> remeber better to put drain and source voltage in that configurat
 
 <img width="1619" height="756" alt="image" src="https://github.com/user-attachments/assets/a19c30f0-0520-44a2-af4d-9dec9948bafa" />
 
-4)  
+4)  from here we can assume multpile transistor gain and gds that will help us in our design.
+
+
+ 
