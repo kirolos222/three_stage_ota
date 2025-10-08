@@ -26,4 +26,7 @@ test bench ==> remeber better to put drain and source voltage in that configurat
 4)  from here we can assume multpile transistor gain and gds that will help us in our design.
 
 
- 
+## biasing network :
+
+<img width="371" height="212" alt="image" src="https://github.com/user-attachments/assets/a4235cc7-aaa9-4eb1-a269-cf3e170450ac" />
+
