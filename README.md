@@ -45,3 +45,22 @@ CMIR:
 Open loop phase margin : 
 
 <img width="991" height="776" alt="image" src="https://github.com/user-attachments/assets/65a76803-c92d-4e81-85d6-7f9ceabba722" />
+
+## closed loop :
+
+closed loop gain :
+
+<img width="989" height="784" alt="image" src="https://github.com/user-attachments/assets/7bc6634f-cb50-4130-83ab-37a7ae991aec" />
+
+closed  loop phase :
+
+<img width="996" height="786" alt="image" src="https://github.com/user-attachments/assets/092006fa-a602-4fc2-91d5-f029f2979347" />
+
+phase margin :
+
+<img width="308" height="335" alt="image" src="https://github.com/user-attachments/assets/a424d7d8-54c7-4122-91bc-a014df1095d8" />
+
+gain margin :
+
+<img width="312" height="335" alt="image" src="https://github.com/user-attachments/assets/4d7bfe86-6359-4368-b88f-3443fb498512" />
+
