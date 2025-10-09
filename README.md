@@ -30,3 +30,8 @@ test bench ==> remeber better to put drain and source voltage in that configurat
 
 <img width="371" height="212" alt="image" src="https://github.com/user-attachments/assets/a4235cc7-aaa9-4eb1-a269-cf3e170450ac" />
 
+## 2 stages :
+
+<img width="752" height="532" alt="image" src="https://github.com/user-attachments/assets/14de6d36-157f-437b-8cea-f610491deda3" />
+
+
