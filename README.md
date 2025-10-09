@@ -64,3 +64,14 @@ gain margin :
 
 <img width="312" height="335" alt="image" src="https://github.com/user-attachments/assets/4d7bfe86-6359-4368-b88f-3443fb498512" />
 
+loop gain :
+<img width="994" height="777" alt="image" src="https://github.com/user-attachments/assets/4440897d-4a36-4650-8b5f-9230ad7348a9" />
+## transient analysis :
+
+<img width="983" height="782" alt="image" src="https://github.com/user-attachments/assets/bd89ac6a-72b0-49a2-b760-b8ca84d6e06d" />
+
+slew rate :
+
+<img width="642" height="774" alt="image" src="https://github.com/user-attachments/assets/f03c0d44-b5b1-4dc3-aa9b-bee6c9a9c0f1" />
+
+ 0.05 v/us ==> we need slew rate enhacement :)
