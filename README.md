@@ -40,5 +40,6 @@ AOL and unity gain frequency:
 
 CMIR:
 
+<img width="1000" height="785" alt="image" src="https://github.com/user-attachments/assets/9ac68efc-14af-4099-9205-001d2f7a359c" />
 
 
