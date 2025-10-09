@@ -40,7 +40,7 @@ AOL and unity gain frequency:
 
 CMIR:
 
-<img width="1000" height="785" alt="image" src="https://github.com/user-attachments/assets/9ac68efc-14af-4099-9205-001d2f7a359c" />
+<img width="995" height="785" alt="image" src="https://github.com/user-attachments/assets/4aa6a761-72d5-4f64-8f17-13bc101e6713" />
 
 Open loop phase margin : 
 
