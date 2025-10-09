@@ -34,4 +34,11 @@ test bench ==> remeber better to put drain and source voltage in that configurat
 
 <img width="752" height="532" alt="image" src="https://github.com/user-attachments/assets/14de6d36-157f-437b-8cea-f610491deda3" />
 
+AOL and unity gain frequency:
+
+<img width="995" height="790" alt="image" src="https://github.com/user-attachments/assets/960893b5-90b9-452e-a60d-012f73bbfc40" />
+
+CMIR:
+
+
 
