@@ -75,3 +75,8 @@ slew rate :
 <img width="642" height="774" alt="image" src="https://github.com/user-attachments/assets/f03c0d44-b5b1-4dc3-aa9b-bee6c9a9c0f1" />
 
  0.05 v/us ==> we need slew rate enhacement :)
+
+ ## slew enhacement circuit :
+
+ <img width="368" height="593" alt="image" src="https://github.com/user-attachments/assets/3cbc717c-74da-4e23-ae66-62c7b3a49daa" />
+
