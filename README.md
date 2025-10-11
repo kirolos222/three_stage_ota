@@ -80,3 +80,24 @@ slew rate :
 
  <img width="368" height="593" alt="image" src="https://github.com/user-attachments/assets/3cbc717c-74da-4e23-ae66-62c7b3a49daa" />
 
+this circuit working flow:
+
+at DC MP3 and MN3 are off.
+
+at transient , at large signal MP3 and MN3 sense current change from the output
+
+Case 1 — Output rising:
+
+M7 (NMOS) conducts more (pulls output down normally).
+​
+increases → MN3 turns ON → adds extra sinking current → faster pull-down.
+
+M7 + MN3 together sink more current than M7 alone.
+
+Case 2 — Output falling:
+
+M8 (PMOS) conducts more (pulls output up normally).
+
+decreases → MP3 turns ON → adds extra sourcing current → faster pull-up.
+
+M8 + MP3 together source more current than M8 alone.
