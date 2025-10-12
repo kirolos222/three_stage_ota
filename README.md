@@ -100,7 +100,8 @@ M8 (PMOS) conducts more (pulls output up normally).
 
 decreases → MP3 turns ON → adds extra sourcing current → faster pull-up.
 
+M8 + MP3 together source more current than M8 alone.
+
 <img width="1458" height="673" alt="image" src="https://github.com/user-attachments/assets/a58c7503-fd27-465f-8798-9657b2081c47" />
 
 
-M8 + MP3 together source more current than M8 alone.
