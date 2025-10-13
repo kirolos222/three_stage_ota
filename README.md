@@ -104,4 +104,7 @@ M8 + MP3 together source more current than M8 alone.
 
 <img width="1458" height="673" alt="image" src="https://github.com/user-attachments/assets/a58c7503-fd27-465f-8798-9657b2081c47" />
 
+Slew rate circuit at DC :
+
+<img width="783" height="558" alt="image" src="https://github.com/user-attachments/assets/3945bd35-cb56-4a1a-8bee-a8702b1d6887" />
 
