@@ -118,3 +118,7 @@ slew rate :
 
 <img width="699" height="36" alt="image" src="https://github.com/user-attachments/assets/de7c0c7d-1d52-46ec-955f-f4321edcc8d4" />
 
+## whole circuit :
+
+<img width="1346" height="486" alt="image" src="https://github.com/user-attachments/assets/a02ba00f-abfd-40a3-806a-7b458111e65e" />
+
