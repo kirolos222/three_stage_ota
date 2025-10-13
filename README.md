@@ -108,3 +108,4 @@ Slew rate circuit at DC :
 
 <img width="783" height="558" alt="image" src="https://github.com/user-attachments/assets/3945bd35-cb56-4a1a-8bee-a8702b1d6887" />
 
+the circuit is working right at DC as expected as MP1 and MN2 are region 1 triode at DC ,both MP3 and MN3 are both off 
