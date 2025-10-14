@@ -1,4 +1,4 @@
-<img width="1919" height="683" alt="image" src="https://github.com/user-attachments/assets/02e02778-1c79-4ad5-8d4e-1177a72f83a2" /># three_stage_ota
+# three_stage_ota
 in this repo we will design a three stage ota using 22nm fdsoi and we will use this paper as a refernce for this project :
 we will learn some concept like cascaded stages, miller compensation. 
 
