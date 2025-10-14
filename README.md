@@ -1,4 +1,4 @@
-# three_stage_ota
+# multiple-stage-OTA-sub-1v-using-SRE-slew-rate-enhancement
 in this repo we will design a three stage ota using 22nm fdsoi and we will use this paper as a refernce for this project :
 we will learn some concept like cascaded stages, miller compensation. 
 
@@ -118,7 +118,7 @@ the circuit is working right at DC as expected as MP1 and MN2 are region 1 triod
 
 slew rate :
 
-
+<img width="693" height="15" alt="image" src="https://github.com/user-attachments/assets/0449b9dc-4829-47f0-a90f-417fa5f11986" />
 
 ## whole circuit :
 
