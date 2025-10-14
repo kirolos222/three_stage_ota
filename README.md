@@ -1,4 +1,4 @@
-# three_stage_ota
+<img width="989" height="653" alt="image" src="https://github.com/user-attachments/assets/b102f5bb-1d5c-4eea-9cd5-0119c663c9ec" /># three_stage_ota
 in this repo we will design a three stage ota using 22nm fdsoi and we will use this paper as a refernce for this project :
 we will learn some concept like cascaded stages, miller compensation. 
 
@@ -112,7 +112,8 @@ the circuit is working right at DC as expected as MP1 and MN2 are region 1 triod
 
 ##output after SRE :
 
-<img width="971" height="629" alt="image" src="https://github.com/user-attachments/assets/7bb0bb5a-0f18-43f6-9257-ff4947e43902" />
+<img width="989" height="653" alt="image" src="https://github.com/user-attachments/assets/029d4abb-f63e-45a0-b233-3f340b452d84" />
+
 
 slew rate :
 
