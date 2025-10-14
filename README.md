@@ -45,7 +45,7 @@ CMIR:
 
 Open loop phase margin : 
 
-<img width="991" height="776" alt="image" src="https://github.com/user-attachments/assets/65a76803-c92d-4e81-85d6-7f9ceabba722" />
+<img width="760" height="23" alt="image" src="https://github.com/user-attachments/assets/69bdda82-05e7-4294-b476-a5ae917e6c2d" />
 
 ## closed loop :
 
