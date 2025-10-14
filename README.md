@@ -1,4 +1,4 @@
-<img width="989" height="653" alt="image" src="https://github.com/user-attachments/assets/b102f5bb-1d5c-4eea-9cd5-0119c663c9ec" /># three_stage_ota
+<img width="1919" height="683" alt="image" src="https://github.com/user-attachments/assets/02e02778-1c79-4ad5-8d4e-1177a72f83a2" /># three_stage_ota
 in this repo we will design a three stage ota using 22nm fdsoi and we will use this paper as a refernce for this project :
 we will learn some concept like cascaded stages, miller compensation. 
 
@@ -36,7 +36,8 @@ test bench ==> remeber better to put drain and source voltage in that configurat
 
 AOL and unity gain frequency:
 
-<img width="1005" height="634" alt="image" src="https://github.com/user-attachments/assets/f90a9257-1beb-41df-b4d2-883764a2316b" />
+<img width="1919" height="683" alt="image" src="https://github.com/user-attachments/assets/a154c3aa-238f-41e0-853a-66955afd00d2" />
+
 
 CMIR:
 
@@ -117,7 +118,7 @@ the circuit is working right at DC as expected as MP1 and MN2 are region 1 triod
 
 slew rate :
 
-<img width="699" height="36" alt="image" src="https://github.com/user-attachments/assets/de7c0c7d-1d52-46ec-955f-f4321edcc8d4" />
+
 
 ## whole circuit :
 
