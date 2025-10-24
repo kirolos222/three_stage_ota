@@ -124,3 +124,6 @@ slew rate :
 
 <img width="1346" height="486" alt="image" src="https://github.com/user-attachments/assets/a02ba00f-abfd-40a3-806a-7b458111e65e" />
 
+
+# Layout 
+
